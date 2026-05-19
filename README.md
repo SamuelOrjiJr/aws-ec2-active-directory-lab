@@ -45,14 +45,31 @@ IT environment — no pre-built VM, no guided sandbox.
 
 | File | Description |
 |---|---|
-| AD-Lab_01_ADUC-Dashboard | Active Directory Users and Computers open and running |
-| AD-Lab_02_OU-Created | IT Support Organizational Unit created |
-| AD-Lab_03_User-Accounts-Created | All four user accounts inside the OU |
-| AD-Lab_04_Security-Groups-Created | All three security groups created |
-| AD-Lab_05_Users-Added-To-IT-Support-Team | IT Support Team members populated |
-| AD-Lab_06_Users-Added-To-Engineering-Team | Engineering Team members populated |
-| AD-Lab_07_Users-Added-To-Winning-Team | Winning Team members populated |
-| AD-Lab_08_Zendesk-Ticket-Documented | Full support ticket documented in Zendesk |
+| ## Screenshots
+
+**AD-Lab_01 — ADUC Dashboard**
+![ADUC Dashboard](AD-Lab_01_ADUC-Dashboard.png)
+
+**AD-Lab_02 — OU Created**
+![OU Created](AD-Lab_02_OU-Created.png)
+
+**AD-Lab_03 — User Accounts Created**
+![User Accounts Created](AD-Lab_03_User-Account-Created.png)
+
+**AD-Lab_04 — Security Groups Created**
+![Security Groups Created](AD-Lab_04_Security-Group-Created.png)
+
+**AD-Lab_05 — Users Added to IT Support Team**
+![IT Support Team](AD-Lab_05_Users-Added-To-IT-Support-Team.png)
+
+**AD-Lab_06 — Users Added to Engineering Team**
+![Engineering Team](AD-Lab_06_Users-Added-To-Engineering-Team.png)
+
+**AD-Lab_07 — Users Added to Winning Team**
+![Winning Team](AD-Lab_07_Users-Added-To-Winning-Team.png)
+
+**AD-Lab_08 — Zendesk Ticket Documented**
+![Zendesk Ticket](AD-Lab_08_Zendesk-Ticket-Documented.png)
 
 ---
 
