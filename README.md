@@ -45,8 +45,6 @@ IT environment — no pre-built VM, no guided sandbox.
 
 | File | Description |
 |---|---|
-| ## Screenshots
-
 **AD-Lab_01 — ADUC Dashboard**
 ![ADUC Dashboard](AD-Lab_01_ADUC-Dashboard.png)
 
